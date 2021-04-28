@@ -9,7 +9,7 @@ All data is Source data only, no binary files to be added. No copyrighted data t
 
 Anyone in the PSX community is welcome to contribute.
 
-##Instructions
+# Instructions
 
 All contributions should be placed in a folder of the following format.
 
@@ -17,7 +17,7 @@ All contributions should be placed in a folder of the following format.
 
 Inside the folder should be the PartXX .txt files and a readme.md file with a descrption of the projects current state.
 
-##Using The Files
+# Using The Files
 
 These files can be used by the PSX Navburo program to compile custom navdata for PSX.  The aerowinx forum can provide details.
 
