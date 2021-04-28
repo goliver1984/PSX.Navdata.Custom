@@ -13,7 +13,7 @@ Anyone in the PSX community is welcome to contribute.
 
 All contributions should be placed in a folder of the following format.
 
-<Creator/Owner>-<ICAO>-Description-<ArincCycle>
+Creator/Owner-ICAO-Description-ArincCycle
 
 Inside the folder should be the PartXX .txt files and a readme.md file with a descrption of the projects current state.
 
