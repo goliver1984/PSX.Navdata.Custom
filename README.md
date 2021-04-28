@@ -5,6 +5,6 @@ This repo will only contain missing data, for example VHHX or airports missing f
 
 This is not intendeed to contain full data sets.
 
-No copyrighted data to be added.
+All data is Source data only, no binary files to be added. No copyrighted data to be added.
 
 
