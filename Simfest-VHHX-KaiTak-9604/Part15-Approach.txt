@@ -1,0 +1,4 @@
+SPACP VHHXVHFG13   G      010CH   VHD 0E  CL   HMY                    2700T010      08000     11000                        000009604
+SPACP VHHXVHFG13   G      020GOLF VHEA0EY      TF                     3600          06000     11000180               -     000009604
+SPACP VHHXVHFG13   G      030SL   VHDB0N       TF                     3600          04500     11000180               -     000009604
+SPACP VHHXVHFG13   G      040KL   VHPC0E  F    CF KL  VH      088001400880    PG    4500      11000   -310                 000009604
