@@ -1,6 +1,7 @@
 SPACP VHHXVHFG13   G      010CH   VHD 0E  CL   HMY                    2700T010      08000     11000                        000009604
 SPACP VHHXVHFG13   G      020GOLF VHEA0EY      TF                     3600          06000     11000180               -     000009604
 SPACP VHHXVHFG13   G      030SL   VHDB0N       TF                     0450          04500     11000180               -     000009604
-SPACP VHHXVHFG13   G      040FG13 VHPC0E  I    CI KL  VH      2680014008800140PI    04500     11000   -310                 000009604
-SPACP VHHXVHFG13   G      050RW   VHDB0N  M    CF RW  VH      316000031360                    11000                        000009801
-SPACP VHHXVHFG13   G      060RW13 VHPG0GY E    TF                     1360          00015     11000                        000009801
+SPACP VHHXVHFG13   G      040FG13 VHPC0E  I    CI KL  VH      2680014008800014PI    04500     11000   -310                 000009604
+SPACP VHHXVHFG13   G      050KL   VHPI0E       CF KL  VH      2680014026800014PI    04500     11000                        000009604
+SPACP VHHXVHFG13   G      060RW   VHDB0N  M    CF RW  VH      316000031360                    11000                        000009604
+SPACP VHHXVHFG13   G      070RW13 VHPG0GY E    TF                     1360          00015     11000                        000009604
