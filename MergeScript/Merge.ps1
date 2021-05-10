@@ -1,6 +1,8 @@
 
 $dirstomerge = Get-ChildItem In -Directory
 
+Remove-Item Out\*.*
+
 foreach($dir in $dirstomerge)
 {
    
@@ -8,6 +10,7 @@ foreach($dir in $dirstomerge)
 
    foreach($file in $filestomerge)
    {
+
      if ($file.Extension -eq ".txt")
      {
         if (-Not (Test-Path Out\$file))
@@ -19,6 +22,7 @@ foreach($dir in $dirstomerge)
     
         Add-Content Out\$file -value (Get-Content In\$dir\$File)
      }
+
    }
 
 }

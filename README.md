@@ -21,5 +21,5 @@ Inside the folder should be the PartXX .txt files and a readme.md file with a de
 
 These files can be used by the PSX Navburo program to compile custom navdata for PSX.  The aerowinx forum can provide details.
 
-It is proposed that someone will write a script to merge this files into a part file for Navburo once we move forward.
+Merge.ps1 can be used to merge all your navdata sources by creating subfolders In and Out.
 
