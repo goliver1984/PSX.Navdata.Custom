@@ -1,0 +1,4 @@
+SPACP VHHXVHEOSCAR12RW13  010OSCARVHEA0E       TF                     3340                    11000                    C   000009801
+SPACP VHHXVHEOSCAR12RW13  020CH   VHD 0EE      TF                     2710          08000     11000                    C   000009801
+SPACP VHHXVHEOSCAR22RW31  010OSCARVHEA0E       TF                     0080                    11000                    C   000009801
+SPACP VHHXVHEOSCAR22RW31  020TH   VHD 0EE      TF                     3160          02000     11000                    C   000009801

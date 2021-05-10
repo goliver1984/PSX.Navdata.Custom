@@ -1,0 +1,4 @@
+SPACP VHHXVHMKL   MM 0     RW13 N22194754E1140842390892                                   W0030  00100                     000009801
+SPACP VHHXVHMKL   OM 0     RW13 N22193332E1140450540892                                   W0030  00100                     000009801
+SPACP VHHXVHMIHK  MM 0     RW31 N22170304E1141418243170                                   W0030  00100                     000009801
+SPACP VHHXVHMIHK  OM 0     RW31 N22142116E1141715633170                                   W0030  00100                     000009801

@@ -1,0 +1,6 @@
+SPACDB       CC    VH003600H    N22120541E114013533                       W0019           WGEHONG KONG CHEUNG              000009801
+SPACDB       RW    VH003770H M  N22193531E114112821                       W0020           WGEHONG KONG                     000009801
+SPACDB       SC    VH002360H M  N22191187E114075598                       W0020           WGESTONECUTTERS                  000009801
+SPACDB       SL    VH002680H    N22172751E113542501                       W0019           WGESHA LO WAN                    000009801
+SPACDB       TP    VH002800H    N22142116E114171563                       W0020           WGETATHONG POINT                 000009801
+

@@ -1,0 +1,5 @@
+SPACER       KTAK1       0010OSCARVHEA0E C  CBBAA       050           3340         FL110     UNLTD                         000009801
+SPACER       KTAK1       0020CH   VHD 0E C  CBBAA       050           33400240     FL110     UNLTD                         000009801
+SPACER       KTAK1       0030TD   VHD 0EEC  CBBAA       050           08600130     FL110     UNLTD                         000009801
+SPACER       KTAK2       0010TD   VHD 0E C  CBBAA       050           1890         FL110     UNLTD                         000009801
+SPACER       KTAK2       0020OSCARVHEA0EEC  CBBAA       050           18900230     FL110     UNLTD                         000009801
