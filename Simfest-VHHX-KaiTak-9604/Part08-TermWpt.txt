@@ -1,18 +1,3 @@
-SPACP VHHXVHCD23HK VH0    I Z   N22023970E114304512                       W0024     WGE        T  D23 IHK                  000009801
-SPACP VHHX   OSCAR VH0    I F B N21511714E114145305                       W0024     WGE                                    000009801
-SPACP VHHX   A     VH0    I F B N22162000E115086000                       W0024     WGE                                    000009801
-SPACP VHHX   C     VH0    I F B N21174800E113363000                       W0024     WGE                                    000009801
-SPACP VHHX   D     VH0    I F B N21200600E114314800                       W0024     WGE                                    000009801
-SPACP VHHX   GOLF  VH0    I F B N22125500E113541800                       W0024     WGE                                    000009801
-SPACP VHHX   J     VH0    I F B N22194900E114285400                       W0024     WGE                                    000009801
-SPACP VHHX   K     VH0    I F B N21523000E114413000                       W0024     WGE                                    000009801
-SPACP VHHX   LIMA  VH0    I F B N22080710E114242300                       W0024     WGE                                    000009801
-SPACP VHHX   M     VH0    I F B N21178000E113156000                       W0024     WGE                                    000009801
-SPACP VHHX   N     VH0    I F B N22174000E115114000                       W0024     WGE                                    000009801
-SPACP VHHX   O     VH0    I F B N21510180E114142520                       W0024     WGE                                    000009801
-SPACP VHHX   Q     VH0    I F B N21198000E114437000                       W0024     WGE                                    000009801
-SPACP VHHX   T     VH0    I F B N21122000E113436000                       W0024     WGE                                    000009801
-SPACP VHHX   W     VH0    I F B N22015990E114303600                       W0024     WGE                                    000009801
 SPACP VHHX   KL15  VH0    I F B N22190400E113563500                       W0024     WGE                                    000009801
 SPACP VHHX   KL16  VH0    I F B N22189500E113553400                       W0024     WGE                                    000009801
 SPACP VHHX   CF13  VH0    I F B N22188700E113541700                       W0024     WGE                                    000009801

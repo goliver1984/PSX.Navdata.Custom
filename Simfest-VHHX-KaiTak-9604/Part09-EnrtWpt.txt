@@ -24,3 +24,18 @@ SPACEAENRT   TAMOT VH0    I F B N22215000E113520000                       W0024 
 SPACEAENRT   HERON VH0    I F B N21198000E113536000                       W0024     WGE                                    000009801
 SPACEAENRT   GINJA VH0    I F B N20398000E112023000                       W0024     WGE                                    000009801
 SPACEAENRT   OSCAR VH0    I F B N21511714E114145305                       W0024     WGE                                    000009801
+SPACEAENRT   CD23HKVH0    I Z   N22023970E114304512                       W0024     WGE        T  D23 IHK                  000009801
+SPACEAENRT   OSCAR VH0    I F B N21511714E114145305                       W0024     WGE                                    000009801
+SPACEAENRT   A     VH0    I F B N22162000E115086000                       W0024     WGE                                    000009801
+SPACEAENRT   C     VH0    I F B N21174800E113363000                       W0024     WGE                                    000009801
+SPACEAENRT   D     VH0    I F B N21200600E114314800                       W0024     WGE                                    000009801
+SPACEAENRT   GOLF  VH0    I F B N22125500E113541800                       W0024     WGE                                    000009801
+SPACEAENRT   J     VH0    I F B N22194900E114285400                       W0024     WGE                                    000009801
+SPACEAENRT   K     VH0    I F B N21523000E114413000                       W0024     WGE                                    000009801
+SPACEAENRT   LIMA  VH0    I Z   N22080710E114242300                       W0024     WGE                                    000009801
+SPACEAENRT   M     VH0    I F B N21178000E113156000                       W0024     WGE                                    000009801
+SPACEAENRT   N     VH0    I F B N22174000E115114000                       W0024     WGE                                    000009801
+SPACEAENRT   O     VH0    I F B N21510180E114142520                       W0024     WGE                                    000009801
+SPACEAENRT   Q     VH0    I F B N21198000E114437000                       W0024     WGE                                    000009801
+SPACEAENRT   T     VH0    I F B N21122000E113436000                       W0024     WGE                                    000009801
+SPACEAENRT   W     VH0    I F B N22015990E114303600                       W0024     WGE                                    000009801

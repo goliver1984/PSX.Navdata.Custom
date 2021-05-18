@@ -3,6 +3,14 @@ SPACP VHHXVHDTH1   2RW13  020D23HKVHPC0EE      TF                     1370      
 SPACP VHHXVHDCH1   2RW31  010RW   VHDB0NY  L   TFY                    3170                    09000                    C   000009801
 SPACP VHHXVHDCH1   2RW31  020SC   VHDB0NE      DF                     2520                    09000                    C   000009801
 SPACP VHHXVHDBEKO1A2RW13  010TH   VHD 0V       TF TH  VH              1360    D               09000                    C   000009801
-SPACP VHHXVHDBEKO1A2RW13  020LIMA VHEA0        TF                     2520        - 7000      09000                    C   000009801
-SPACP VHHXVHDBEKO1A2RW13  030J    VHPC0        TF CH  VH      077002603020    D     7000      09000                    C   000009801
-SPACP VHHXVHDBEKO1A2RW13  040BEKOLVHEA0 E      TF                                 +A1180      09000                    C   000009801
+SPACP VHHXVHDBEKO1A2RW13  020LIMA VHEA0E       TF                     2520        - 07000     09000                    C   000009801
+SPACP VHHXVHDBEKO1A2RW13  030J    VHEA0        TF CH  VH      077002603020    D     07000     09000                    C   000009801
+SPACP VHHXVHDBEKO1A2RW13  040BEKOLVHEA0EE      TF                                 +A11800     09000                    C   000009801
+SPACP VHHXVHDBEKO2C2RW31  010RW   VHDB0NB      TF RW  VH                      DB              09000                    C   000009801
+SPACP VHHXVHDBEKO2C2RW31  020MM13 VHPC0EB      TF                                             09000                    C   000009801
+SPACP VHHXVHDBEKO2C2RW31  030SC   VHDB0NB      TF SC  VH              2510    DB              09000                    C   000009801
+SPACP VHHXVHDBEKO2C2RW31  030CH   VHD 0VB      CI CH  VH              2510    D               09000                    C   000009801
+SPACP VHHXVHDBEKO2C2RW31  040CH   VHD 0V       TF CH  VH              2110    D   + 03000     09000                    C   000009801
+SPACP VHHXVHDBEKO2C2RW31  050CH   VHD 0V       CA CH  VH              1540    D     09000     09000                    C   000009801
+SPACP VHHXVHDBEKO2C2RW31  060TH   VHD 0V       TF TH  VH                            11000     09000                    C   000009801
+SPACP VHHXVHDBEKO2C2RW31  070BEKOLVHEA0EE      TF                                 +A11800     09000                    C   000009801
