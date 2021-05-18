@@ -16,6 +16,6 @@ SPACP VHHXVHDBEKO2C2RW31  060TH   VHD 0V       TF TH  VH                        
 SPACP VHHXVHDBEKO2C2RW31  070BEKOLVHEA0EE      TF                                 +A11800     09000                    C   000009801
 SPACP VHHXVHDDOTM1A2RW13  010TH   VHD 0V       TF TH  VH              1360    D               09000                    C   000009801
 SPACP VHHXVHDDOTM1A2RW13  020W    VHEA0E       TF                     0900        - 07000     09000                    C   000009801
-SPACP VHHXVHDDOTM1A2RW13  030CH   VHD 0V       TF CH  VH              1040    D               09000                    C   000009801
-SPACP VHHXVHDDOTM1A2RW13  040CH100VHEA0E       TF CH  VH      10401000        D               09000                    C   000009801
+SPACP VHHXVHDDOTM1A2RW13  030CH   VHD 0V       CI CH  VH              0900    D               09000                    C   000009801
+SPACP VHHXVHDDOTM1A2RW13  040CH100VHEA0E       TF CH  VH      104010001040    D               09000                    C   000009801
 SPACP VHHXVHDDOTM1A2RW13  050DOTMIVHEA0EE      TF                                             09000                    C   000009801
