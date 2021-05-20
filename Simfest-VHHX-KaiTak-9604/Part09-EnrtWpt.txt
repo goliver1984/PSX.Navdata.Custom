@@ -7,8 +7,8 @@ SPACEAENRT   CORAL VH0    I F B N20515200E113050700                       W0024 
 SPACEAENRT   MANGO VH0    I F B N21364900E114305300                       W0024     WGE                                    000009801
 SPACEAENRT   MELON VH0    I F B N22162000E115008000                       W0024     WGE                                    000009801
 SPACEAENRT   DOTMI VH0    I F B N22430600E116100500                       W0024     WGE                                    000009801
-SPACEAENRT   ELATO VH0    I F B N22196000E117300000                       W0024     WGE                                    000009801
-SPACEAENRT   ENVAR VH0    I F B N22016000E114303600                       W0024     WGE                                    000009801
+SPACEAENRT   ELATO VH0    I F B N22200000E117300000                       W0024     WGE                                    000009801
+SPACEAENRT   ENVAR VH0    I F B N21595000E117300000                       W0024     WGE                                    000009801
 SPACEAENRT   DUMOL VH0    I F B N19000000E114231800                       W0024     WGE                                    000009801
 SPACEAENRT   IDOSI VH0    I F B N19000000E112300000                       W0024     WGE                                    000009801
 SPACEAENRT   DAGON VH0    I F B N19051800E111515400                       W0024     WGE                                    000009801
