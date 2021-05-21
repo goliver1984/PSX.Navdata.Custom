@@ -7,5 +7,28 @@ SPACP VHHXVHEMAGO131ELATO 010ELATOVHEA0E       IF CH  VH      08901932        D 
 SPACP VHHXVHEMAGO131ELATO 020MAGOGVHEA0E       TF CH  VH      10000890        D               11000                        000009806
 SPACP VHHXVHEMAGO132      010MAGOGVHEA0E       IF CH  VH      08901000        D               11000                        000009806
 SPACP VHHXVHEMAGO132      020A    VHEA0E       TF CH  VH      08900620        D               11000                        000009806
-SPACP VHHXVHEMAGO132      030CH   VHD 0V       CD CH  VH      0890030026900300D   - 14000     11000250                     000009806
+SPACP VHHXVHEMAGO132      030CH   VHD 0V       FD CH  VH      0890030008900300D   - 14000     11000250                     000009806
 SPACP VHHXVHEMAGO132      040CH   VHD 0V       TF CH  VH                      D               11000230                     000009806
+SPACP VHHXVHENOMA132      010NOMANVHEA0E       IF CH  VH      133010003130    D               11000                        000009806
+SPACP VHHXVHENOMA132      020CH   VHD 0V       FD CH  VH      1330030013300300D   - 14000     11000250                     000009806
+SPACP VHHXVHENOMA132      030CH   VHD 0V       TF CH  VH                      D               11000230                     000009806
+SPACP VHHXVHESABN132      010SABNOVHEA0E       IF CH  VH      154019893340    D               11000                        000009806
+SPACP VHHXVHESABN132      020D    VHEA0E       TF CH  VH      154006003340    D               11000                        000009806
+SPACP VHHXVHESABN132      030CH   VHD 0V       FD CH  VH      1540030015400300D   - 14000     11000250                     000009806
+SPACP VHHXVHESABN132      040CH   VHD 0V       TF CH  VH                      D               11000230                     000009806
+SPACP VHHXVHEDUMO132      010DUMOLVHEA0E       IF CH  VH      175019393550    D               11000                        000009806
+SPACP VHHXVHEDUMO132      020CH   VHD 0V       FD CH  VH      1750030017500300D   - 14000     11000250                     000009806
+SPACP VHHXVHEDUMO132      030CH   VHD 0V       TF CH  VH                      D               11000230                     000009806
+SPACP VHHXVHEIDOS132      010IDOSIVHEA0E       IF CH  VH      205021080250    D               11000                        000009806
+SPACP VHHXVHEIDOS132      020CHALIVHEA0E       TF CH  VH      205006000250    D               11000                        000009806
+SPACP VHHXVHEIDOS132      030CH   VHD 0V       FD CH  VH      2050030020500300D   - 14000     11000250                     000009806
+SPACP VHHXVHEIDOS132      040CH   VHD 0V       TF CH  VH                      D               11000230                     000009806
+SPACP VHHXVHESIKO132      010SIKOUVHEA0E       IF CH  VH      242016370780    D               11000                        000009806
+SPACP VHHXVHESIKO132      020CHALIVHEA0E       TF CH  VH      205006000250    D               11000                        000009806
+SPACP VHHXVHESIKO132      030CH   VHD 0V       FD CH  VH      2050030020500300D   - 14000     11000250                     000009806
+SPACP VHHXVHESIKO132      040CH   VHD 0V       TF CH  VH                      D               11000230                     000009806
+SPACP VHHXVHETAMO132      010TAMOTVHEA0E       IF                                             11000                        000009806
+SPACP VHHXVHETAMO132      020M    VHEA0EY      TF CH  VH      22000700        D               11000                        000009806
+SPACP VHHXVHETAMO132      030CHALIVHEA0E       TF CH  VH      205006000250    D               11000                        000009806
+SPACP VHHXVHETAMO132      040CH   VHD 0V       FD CH  VH      2050030020500300D   - 14000     11000250                     000009806
+SPACP VHHXVHETAMO132      050CH   VHD 0V       TF CH  VH                      D               11000230                     000009806
