@@ -28,7 +28,41 @@ SPACP VHHXVHESIKO132      020CHALIVHEA0E       TF CH  VH      205006000250    D 
 SPACP VHHXVHESIKO132      030CH   VHD 0V       FD CH  VH      2050030020500300D   - 14000     11000250                     000009806
 SPACP VHHXVHESIKO132      040CH   VHD 0V       TF CH  VH                      D               11000230                     000009806
 SPACP VHHXVHETAMO132      010TAMOTVHEA0E       IF                                             11000                        000009806
-SPACP VHHXVHETAMO132      020M    VHEA0EY      TF CH  VH      22000700        D               11000                        000009806
+SPACP VHHXVHETAMO132      020M    VHEA0EY      TF CH  VH      22000700        D     28000     11000                        000009806
 SPACP VHHXVHETAMO132      030CHALIVHEA0E       TF CH  VH      205006000250    D               11000                        000009806
 SPACP VHHXVHETAMO132      040CH   VHD 0V       FD CH  VH      2050030020500300D   - 14000     11000250                     000009806
 SPACP VHHXVHETAMO132      050CH   VHD 0V       TF CH  VH                      D               11000230                     000009806
+SPACP VHHXVHEMAGO311DOTMI 010DOTMIVHEA0E       IF CH  VH      07801225        D               11000                        000009806
+SPACP VHHXVHEMAGO311DOTMI 020MAGOGVHEA0E       TF CH  VH      10000890        D               11000                        000009806
+SPACP VHHXVHEMAGO311LELIM 010LELIMVHEA0E       IF CH  VH      07801872        D               11000                        000009806
+SPACP VHHXVHEMAGO311LELIM 020MALKAVHEA0E       TF                                             11000                        000009806
+SPACP VHHXVHEMAGO311LELIM 030MAGOGVHEA0E       TF CH  VH      10000890        D               11000                        000009806
+SPACP VHHXVHEMAGO311ELATO 010ELATOVHEA0E       IF CH  VH      08901932        D               11000                        000009806
+SPACP VHHXVHEMAGO311ELATO 020MAGOGVHEA0E       TF CH  VH      10000890        D               11000                        000009806
+SPACP VHHXVHEMAGO312      010MAGOGVHEA0E       IF CH  VH      08901000        D               11000                        000009806
+SPACP VHHXVHEMAGO312      020A    VHEA0E       TF CH  VH      08900620        D               11000                        000009806
+SPACP VHHXVHEMAGO312      030CH   VHD 0V       FD CH  VH      0890050008900500D     13000     11000                        000009806
+SPACP VHHXVHEMAGO312      040W    VHEA0EE      TF CH  VH                      D     07000     11000                        000009806
+SPACP VHHXVHENOMA312      010NOMANVHEA0E       IF CH  VH      133019893130    D               11000                        000009806
+SPACP VHHXVHENOMA312      020CH   VHD 0V       FD CH  VH      1330050013300500D     13000     11000                        000009806
+SPACP VHHXVHENOMA312      030W    VHEA0EE      TF CH  VH      1330050013300500D     07000     11000                        000009806
+SPACP VHHXVHESABN312      010SABNOVHEA0E       IF CH  VH      154021873340    D               11000                        000009806
+SPACP VHHXVHESABN312      020D    VHEA0E       TF CH  VH      154006003340    D               11000                        000009806
+SPACP VHHXVHESABN312      030CH   VHD 0V       FD CH  VH      1540050015400500D     13000     11000                        000009806
+SPACP VHHXVHESABN312      040W    VHEA0EE      TF CH  VH                      D     07000     11000                        000009806
+SPACP VHHXVHEDUMO312      010DUMOLVHEA0E       IF CH  VH      175019393550    D               11000                        000009806
+SPACP VHHXVHEDUMO312      020CH   VHD 0V       FD CH  VH      1750050017500500D     13000     11000                        000009806
+SPACP VHHXVHEDUMO312      030W    VHEA0EE      TF CH  VH                      D     07000     11000                        000009806
+SPACP VHHXVHEIDOS312      010IDOSIVHEA0E       IF CH  VH      205021080250    D               11000                        000009806
+SPACP VHHXVHEIDOS312      020CHALIVHEA0E       TF CH  VH      205006000250    D               11000                        000009806
+SPACP VHHXVHEIDOS312      030CH   VHD 0V       FD CH  VH      2050050020500500D     13000     11000                        000009806
+SPACP VHHXVHEIDOS312      040W    VHEA0EE      TF CH  VH                      D     07000     11000                        000009806
+SPACP VHHXVHESIKO312      010SIKOUVHEA0E       IF CH  VH      242016370780    D               11000                        000009806
+SPACP VHHXVHESIKO312      020CHALIVHEA0E       TF CH  VH      205006000250    D               11000                        000009806
+SPACP VHHXVHESIKO312      030CH   VHD 0V       FD CH  VH      2050050020500500D     13000     11000                        000009806
+SPACP VHHXVHESIKO312      040W    VHEA0EE      TF CH  VH                      D     07000     11000                        000009806
+SPACP VHHXVHETAMO312      010TAMOTVHEA0E       IF                                             11000                        000009806
+SPACP VHHXVHETAMO312      020M    VHEA0EY      TF CH  VH      22000700        D     28000     11000                        000009806
+SPACP VHHXVHETAMO312      030CHALIVHEA0E       TF CH  VH      205006000250    D               11000                        000009806
+SPACP VHHXVHETAMO312      040CH   VHD 0V       FD CH  VH      2050050020500500D     13000     11000                        000009806
+SPACP VHHXVHETAMO312      050W    VHEA0EE      TF CH  VH                      D     07000     11000                        000009806
