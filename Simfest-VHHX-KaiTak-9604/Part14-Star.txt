@@ -1,4 +1,11 @@
-SPACP VHHXVHEOSCAR12RW13  010OSCARVHEA0E       TF                     3340                    11000                    C   000009801
-SPACP VHHXVHEOSCAR12RW13  020CH   VHD 0EE      TF                     2710          08000     11000                    C   000009801
-SPACP VHHXVHEOSCAR22RW31  010OSCARVHEA0E       TF                     0080                    11000                    C   000009801
-SPACP VHHXVHEOSCAR22RW31  020TH   VHD 0EE      TF                     3160          02000     11000                    C   000009801
+SPACP VHHXVHEMAGO131DOTMI 010DOTMIVHEA0E       IF CH  VH      07801225        D               11000                        000009806
+SPACP VHHXVHEMAGO131DOTMI 020MAGOGVHEA0E       TF CH  VH      10000890        D               11000                        000009806
+SPACP VHHXVHEMAGO131LELIM 010LELIMVHEA0E       IF CH  VH      07801872        D               11000                        000009806
+SPACP VHHXVHEMAGO131LELIM 020MALKAVHEA0E       TF                                             11000                        000009806
+SPACP VHHXVHEMAGO131LELIM 030MAGOGVHEA0E       TF CH  VH      10000890        D               11000                        000009806
+SPACP VHHXVHEMAGO131ELATO 010ELATOVHEA0E       IF CH  VH      08901932        D               11000                        000009806
+SPACP VHHXVHEMAGO131ELATO 020MAGOGVHEA0E       TF CH  VH      10000890        D               11000                        000009806
+SPACP VHHXVHEMAGO132      010MAGOGVHEA0E       IF CH  VH      08901000        D               11000                        000009806
+SPACP VHHXVHEMAGO132      020A    VHEA0E       TF CH  VH      08900620        D               11000                        000009806
+SPACP VHHXVHEMAGO132      030CH   VHD 0V       CD CH  VH      0890030026900300D   - 14000     11000250                     000009806
+SPACP VHHXVHEMAGO132      040CH   VHD 0V       TF CH  VH                      D               11000230                     000009806
