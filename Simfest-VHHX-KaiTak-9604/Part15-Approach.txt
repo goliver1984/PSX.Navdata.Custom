@@ -1,10 +1,23 @@
-SPACP VHHXVHFG13   G      010CH   VHD 0E  CL   HMYSL  VH              2700T010D     08000     11000                        000009604
-SPACP VHHXVHFG13   G      020GOLF VHEA0EY      TF CH  VH      1800    3600    DB  + 06000     11000210               -     000009604
-SPACP VHHXVHFG13   G      030SL   VHDB0N       CI                     0450                    11000180               -     000009604
-SPACP VHHXVHFG13   G      040KL15 VHEA0E       TF KL  VH      268001500880    DG    04500     11000180               -     000009604
-SPACP VHHXVHFG13   G      050KL9  VHEA0E       TF KL  VH      268000900880    DG              11000                        000009604
-SPACP VHHXVHFG13   G      060OM13 VHEA0E       TF KL  VH      268000530880    DG    01780     11000                        000009604
-SPACP VHHXVHFG13   G      070MM13 VHEA0E       TF KL  VH      268000220880    DG              11000                        000009604
-SPACP VHHXVHFG13   G      080RW   VHDB0N  M    CI RW  VH              0880    DB              11000                        000009604
-SPACP VHHXVHFG13   G      090RW   VHDB0N  M    CF RW  VH      316000031360    DB              11000                        000009604
-SPACP VHHXVHFG13   G      100RW13 VHPG0GY E    TF                     1360          00015     11000                        000009604
+SPACP VHHXVHFG13   G      010CH   VHD 0E  CL   HMYSL  VH              2700T010D     08000     11000                        000009806
+SPACP VHHXVHFG13   G      020GOLF VHEA0EY      TF CH  VH      1800    3600    DB  + 06000     11000210               -     000009806
+SPACP VHHXVHFG13   G      030SL   VHDB0N       CI                     0450                    11000180               -     000009806
+SPACP VHHXVHFG13   G      040KL15 VHEA0E       CF KL  VH      268001500880    DG    04500     11000180               -     000009806
+SPACP VHHXVHFG13   G      050KL9  VHEA0E       TF KL  VH      268000900880    DG              11000                        000009806
+SPACP VHHXVHFG13   G      060OM13 VHEA0E       TF KL  VH      268000530880    DG    01780     11000                        000009806
+SPACP VHHXVHFG13   G      070MM13 VHEA0E  M    TF KL  VH      268000220880    DG              11000                        000009806
+SPACP VHHXVHFG13   G      080RW   VHDB0N       CI RW  VH              0880    DB              11000                        000009806
+SPACP VHHXVHFG13   G      090RW   VHDB0N       CF RW  VH      316000031360    DB              11000                        000009806
+SPACP VHHXVHFG13   G      100RW13 VHPG0GY      TF                     1360          00015     11000                        000009806
+SPACP VHHXVHFG13   G      110TH   VHD 0E M     CF TH  VH              1360    D     04500     11000                        000009806
+SPACP VHHXVHFG13   G      120TH   VHD 0EY ER   HM TH  VH              3160T010D     04500     11000                        000009806
+SPACP VHHXVHFI31   I      010WHSKYVHEA0E  A    IF IHK VH      136002303160    PI              11000                        000009806
+SPACP VHHXVHFI31   I      020LIMA VHEA0E       TF IHK VH      136001503160    PI  + 04500     11000                        000009806
+SPACP VHHXVHFI31   I      030IHK12VHEA0E  F    TF IHK VH      136001203160    PI  + 03500     11000   -300                 000009806
+SPACP VHHXVHFI31   I      040TH   VHD 0E       TF TH  VH              3160    D     01870     11000                        000009806
+SPACP VHHXVHFI31   I      050IHK3 VHEA0E       TF IHK VH      136000303160    PI    00770     11000                        000009806
+SPACP VHHXVHFI31   I      060MM31 VHEA0E  M    TF IHK VH      136000133160    PI              11000                        000009806
+SPACP VHHXVHFI31   I      070            M     CA                     3160          00330     11000   -300                 000009806
+SPACP VHHXVHFI31   I      080SC   VHDB0E       TF SC  VH              2550    DB              11000                        000009806
+SPACP VHHXVHFI31   I      090CH                CI                     2550                    11000                        000009806
+SPACP VHHXVHFI31   I      100CH   VHD 0E       CF CH  VH              2110    D     04500     11000                        000009806
+SPACP VHHXVHFI31   I      110CH   VHD 0E  E    HM CH  VH              2700T010D     04500     11000                        000009806
