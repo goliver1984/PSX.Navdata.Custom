@@ -4,3 +4,4 @@ SPACDB       SC    VH002360H M  N22191187E114075598                       W0020 
 SPACDB       SL    VH002680H    N22172751E113542501                       W0019           WGESHA LO WAN                    000009801
 SPACDB       TP    VH002800H    N22142116E114171563                       W0020           WGETATHONG POINT                 000009801
 
+
